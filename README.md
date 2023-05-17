@@ -1,2 +1,3 @@
-# proyecto-veterinaria
-Proyecto veterinaria
+# proyecto-hospital
+GRUPO NUMERO X
+integrantes
